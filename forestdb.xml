@@ -6,8 +6,7 @@
   <default remote="couchbaselabs" revision="master"/>
 
   <!-- Modules moved over to be built by cmake -->
-  <!--project name="forestdb" path="cmake/forestdb" /-->
-  <project name="showfast" path="cmake/showfast" />
+  <project name="forestdb" path="cmake/forestdb" />
   <project name="platform" path="cmake/platform" remote="couchbase" />
 
 </manifest>
